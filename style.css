@@ -1,19 +1,2 @@
 
-  body{
-    margin:0;
-    padding-left: 200px;
-    padding-right: 190px;
-    min-width: 240px;
-    background-color: rgb(255,181,181);
-}
-header,footer{
-
-    font-size: large;
-    text-align: center;
-    padding: 0.3em 0;
-    background-color:rgb(255, 181, 181);
-    color: rgb(0, 0, 0);
-    margin-left: -200px;
-    margin-right: -190px;
-}
 
